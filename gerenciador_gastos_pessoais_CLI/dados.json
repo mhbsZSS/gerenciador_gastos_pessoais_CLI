@@ -1,0 +1,32 @@
+[
+    {
+        "tipo": "receita",
+        "descricao": "salário",
+        "valor": 7500.0
+    },
+    {
+        "tipo": "despesa",
+        "descricao": "Alimentação",
+        "valor": 1000.0
+    },
+    {
+        "tipo": "despesa",
+        "descricao": "Aluguel",
+        "valor": 800.0
+    },
+    {
+        "tipo": "despesa",
+        "descricao": "Água",
+        "valor": 80.0
+    },
+    {
+        "tipo": "despesa",
+        "descricao": "Energia",
+        "valor": 100.0
+    },
+    {
+        "tipo": "despesa",
+        "descricao": "Internet",
+        "valor": 99.9
+    }
+]
